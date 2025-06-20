@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/macbookair/Downloads/Eksperimen_SML_NurulAsyrifah/mlruns/952762894661335079/8af523c788534125a62a225345df8077/artifacts
+end_time: 1750385276322
+entry_point_name: ''
+experiment_id: '952762894661335079'
+lifecycle_stage: active
+run_id: 8af523c788534125a62a225345df8077
+run_name: silent-gnu-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750385211340
+status: 4
+tags: []
+user_id: macbookair

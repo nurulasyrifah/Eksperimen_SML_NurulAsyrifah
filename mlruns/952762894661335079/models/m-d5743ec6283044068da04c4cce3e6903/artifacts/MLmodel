@@ -1,0 +1,34 @@
+artifact_path: file:///Users/macbookair/Downloads/Eksperimen_SML_NurulAsyrifah/mlruns/952762894661335079/models/m-d5743ec6283044068da04c4cce3e6903/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+is_signature_from_type_hint: false
+mlflow_version: 3.1.0
+model_id: m-d5743ec6283044068da04c4cce3e6903
+model_size_bytes: 33344647
+model_uuid: m-d5743ec6283044068da04c4cce3e6903
+prompts: null
+run_id: 5ac24db841b241e6a599d171eb35e44f
+signature:
+  inputs: '[{"type": "double", "name": "Pressure - leak line", "required": true},
+    {"type": "double", "name": "Temperature - leak line", "required": true}, {"type":
+    "double", "name": "Pressure - output", "required": true}, {"type": "double", "name":
+    "Temperature - suction line", "required": true}, {"type": "double", "name": "Temperature
+    - output", "required": true}, {"type": "double", "name": "Flow - leak line", "required":
+    true}, {"type": "double", "name": "Flow - output", "required": true}, {"type":
+    "double", "name": "Temp. diff", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-06-20 02:14:32.798173'

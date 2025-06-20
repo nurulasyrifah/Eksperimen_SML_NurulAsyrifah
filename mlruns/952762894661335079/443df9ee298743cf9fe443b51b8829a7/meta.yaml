@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/macbookair/Downloads/Eksperimen_SML_NurulAsyrifah/mlruns/952762894661335079/443df9ee298743cf9fe443b51b8829a7/artifacts
+end_time: 1750384202903
+entry_point_name: ''
+experiment_id: '952762894661335079'
+lifecycle_stage: active
+run_id: 443df9ee298743cf9fe443b51b8829a7
+run_name: classy-trout-37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750384130531
+status: 4
+tags: []
+user_id: macbookair

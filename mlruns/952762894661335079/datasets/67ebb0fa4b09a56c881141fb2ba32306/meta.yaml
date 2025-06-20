@@ -1,0 +1,13 @@
+digest: 1d81dcba
+name: dataset
+profile: '{"num_rows": 30641, "num_elements": 245128}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Pressure - leak line", "required":
+  true}, {"type": "double", "name": "Temperature - leak line", "required": true},
+  {"type": "double", "name": "Pressure - output", "required": true}, {"type": "double",
+  "name": "Temperature - suction line", "required": true}, {"type": "double", "name":
+  "Temperature - output", "required": true}, {"type": "double", "name": "Flow - leak
+  line", "required": true}, {"type": "double", "name": "Flow - output", "required":
+  false}, {"type": "double", "name": "Temp. diff", "required": true}]}'
+source: '{"tags": {"mlflow.user": "macbookair", "mlflow.source.name": "modelling.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

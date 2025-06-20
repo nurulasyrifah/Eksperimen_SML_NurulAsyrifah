@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/macbookair/Downloads/Eksperimen_SML_NurulAsyrifah/mlruns/952762894661335079/5ac24db841b241e6a599d171eb35e44f/artifacts
+end_time: 1750385698960
+entry_point_name: ''
+experiment_id: '952762894661335079'
+lifecycle_stage: active
+run_id: 5ac24db841b241e6a599d171eb35e44f
+run_name: upset-grouse-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750385631477
+status: 3
+tags: []
+user_id: macbookair

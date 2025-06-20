@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/macbookair/Downloads/Eksperimen_SML_NurulAsyrifah/mlruns/952762894661335079/690f47b074e348b485035c5d8bc4912b/artifacts
+end_time: 1750384350243
+entry_point_name: ''
+experiment_id: '952762894661335079'
+lifecycle_stage: active
+run_id: 690f47b074e348b485035c5d8bc4912b
+run_name: stately-fox-464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750384287879
+status: 3
+tags: []
+user_id: macbookair

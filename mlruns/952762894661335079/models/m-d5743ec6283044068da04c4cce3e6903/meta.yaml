@@ -1,0 +1,10 @@
+artifact_location: file:///Users/macbookair/Downloads/Eksperimen_SML_NurulAsyrifah/mlruns/952762894661335079/models/m-d5743ec6283044068da04c4cce3e6903/artifacts
+creation_timestamp: 1750385672752
+experiment_id: '952762894661335079'
+last_updated_timestamp: 1750385683332
+model_id: m-d5743ec6283044068da04c4cce3e6903
+model_type: ''
+name: model
+source_run_id: 5ac24db841b241e6a599d171eb35e44f
+status: 2
+status_message: null
